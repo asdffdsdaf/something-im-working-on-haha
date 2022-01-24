@@ -10,6 +10,7 @@
     "@sveltejs/kit": "next",
     "carbon-components-svelte": "^0.54.0",
     "carbon-preprocess-svelte": "^0.6.0",
+    "svelte-dnd-action": "^0.9.14",
     "svelte": "^3.46.2"
   }
 }

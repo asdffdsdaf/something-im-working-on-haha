@@ -3,3 +3,4 @@
 /.svelte-kit
 /build
 /yarn.lock
+/package-lock.json

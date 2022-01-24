@@ -14,7 +14,12 @@
     "svelte-dnd-action": "^0.9.14"
   },
   "dependencies": {
+    "@carbon/layout": "^10.35.0",
+    "@carbon/type": "^10.40.0",
+    "@ibm/plex": "^6.0.0",
+    "sass": "^1.49.0",
     "source-map-loader": "^3.0.1",
+    "svelte-preprocess": "^4.10.2",
     "ts-loader": "^9.2.6",
     "typescript": "^4.5.5"
   }

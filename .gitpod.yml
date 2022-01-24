@@ -32,4 +32,5 @@ github:
 
 vscode:
   extensions:
-    - svelte.svelte-vscode
+    - svelte.svelte-vscode-nightly
+    - fivethree.vscode-svelte-snippets

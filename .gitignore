@@ -1,6 +1,25 @@
-.DS_Store
+# General
+/*.log
+/*.iml
+/.DS_Store
 /node_modules
+
+# NPM (though pnpm is recommended)
+/npm-debug*
+#/package-lock*
+#/.npmrc
+
+# Yarn (though pnpm is recommended)
+/yarn-debug*
+/yarn-error*
+#/yarn.lock*
+#/.yarnrc
+/.yarn/*
+
+# pnpm
+#/pnpm-lock*
+/.pnpm-debug*
+
+# Svelte & SvelteKit
 /.svelte-kit
 /build
-/yarn.lock
-/package-lock.json

@@ -9,7 +9,7 @@ tasks:
   - init: pnpm i
     command: |
       export HMR_HOST=`gp url 3000`
-      pnpm run dev
+      pnpm dev
 github:
   prebuilds:
     master: true
